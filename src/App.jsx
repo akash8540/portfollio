@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar";
+import Navbar from "./components/navBar";
 import Hero from "./components/hero";
 import About from "./components/about";
 import Technologies from "./components/Technologies";
